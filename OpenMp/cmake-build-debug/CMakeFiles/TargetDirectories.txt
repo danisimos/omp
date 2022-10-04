@@ -1,0 +1,13 @@
+D:/CLionProjects/OpenMp/cmake-build-debug/CMakeFiles/OpenMpTask1.dir
+D:/CLionProjects/OpenMp/cmake-build-debug/CMakeFiles/OpenMpTask2.dir
+D:/CLionProjects/OpenMp/cmake-build-debug/CMakeFiles/OpenMpTask3.dir
+D:/CLionProjects/OpenMp/cmake-build-debug/CMakeFiles/OpenMpTask4.dir
+D:/CLionProjects/OpenMp/cmake-build-debug/CMakeFiles/OpenMpTask5.dir
+D:/CLionProjects/OpenMp/cmake-build-debug/CMakeFiles/OpenMpTask6.dir
+D:/CLionProjects/OpenMp/cmake-build-debug/CMakeFiles/OpenMpTask7.dir
+D:/CLionProjects/OpenMp/cmake-build-debug/CMakeFiles/OpenMpTask8.dir
+D:/CLionProjects/OpenMp/cmake-build-debug/CMakeFiles/OpenMpTask9.dir
+D:/CLionProjects/OpenMp/cmake-build-debug/CMakeFiles/OpenMpTask10.dir
+D:/CLionProjects/OpenMp/cmake-build-debug/CMakeFiles/OpenMpTask11.dir
+D:/CLionProjects/OpenMp/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/OpenMp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,17 @@
+cmake_minimum_required(VERSION 3.23)
+project(OpenMp)
+
+set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11 -fopenmp")
+
+add_executable(OpenMpTask1 1/main.cpp)
+add_executable(OpenMpTask2 2/main.cpp)
+add_executable(OpenMpTask3 3/main.cpp)
+add_executable(OpenMpTask4 4/main.cpp)
+add_executable(OpenMpTask5 5/main.cpp)
+add_executable(OpenMpTask6 6/main.cpp)
+add_executable(OpenMpTask7 7/main.cpp)
+add_executable(OpenMpTask8 8/main.cpp)
+add_executable(OpenMpTask9 9/main.cpp)
+add_executable(OpenMpTask10 10/main.cpp)
+add_executable(OpenMpTask11 11/main.cpp)
